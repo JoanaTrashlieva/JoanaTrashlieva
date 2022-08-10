@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/JoTrash"><img src="https://github.com/JoanaTrashlieva/JoanaTrashlieva/devcard.svg" width="400" alt="Jo's Dev Card"/></a>
+<a href="https://app.daily.dev/JoTrash"><img src="https://github.com/JoanaTrashlieva/JoanaTrashlieva/blob/main/devcard.svg" width="400" alt="Jo's Dev Card"/></a>
 
