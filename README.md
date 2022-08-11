@@ -3,10 +3,7 @@
   <div class="column" style="flex: 50%;">
     - 📚 I’m currently studying for my masters in CS </br>
     - 💻 I’m currently working with Java📚 </br>
-    - 🤖 Future projects: </br>
-        * create my personal website </br>
-        * work on my Arduino Leonardo car </br>
-        * get started with my RaspberryPi 3
+    - 🤖 Future projects: create my personal website; work on my Arduino Leonardo car; get started with my RaspberryPi 3
   </div>
   <p></p>
   <div class="column" style="flex: 50%;">
