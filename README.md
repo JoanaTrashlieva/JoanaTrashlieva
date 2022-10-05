@@ -3,11 +3,11 @@
   <div class="column" style="flex: 50%;">
     - 📚 I’m currently studying for my masters in CS </br>
     - 💻 I’m currently working with Java📚 </br>
-    - 🤖 Future projects: \
+    - 🤖 Future projects: 
      <ul>
-       <item>create my personal website</item>
-       <item>work on my Arduino Leonardo car</item>
-       <item>get started with my RaspberryPi 3</item>
+  <li>create my personal website</li>
+       <li>work on my Arduino Leonardo car</li>
+       <li>get started with my RaspberryPi 3</li>
      </ul>
   </div>
   <p></p>
