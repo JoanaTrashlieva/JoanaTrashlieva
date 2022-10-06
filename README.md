@@ -15,7 +15,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 
-> Where there is will, there is way!
+> *Where there is will, there is way!*
 <br/>
 
 ## Top things about me:
