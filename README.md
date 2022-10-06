@@ -4,9 +4,31 @@
   </div> -->
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="350"/>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+   Hello world!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
+<br/>
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+<br/>
+
+## Top things about me:
+<ul>
+  <li>🇬🇧 BSc Internet Computing & SysAdmin [2016-2020] </li>
+  <li>🇳🇱 MSc Advanced Computing & Systems [2021-2023]</li>
+  <li>🏀 #16 point guard for [LUSV](https://www.lusvbasketball.nl)
+  <li>💻 Full-time backend Java developer</li>
+</ul>
+
+
+<div id="header" align="center">
   <div id="badges">
     <a href="https://nl.linkedin.com/in/joana-trashlieva">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +43,4 @@
   <img src="https://komarev.com/ghpvc/?username=JoanaTrashlieva&style=flat&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
