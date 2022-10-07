@@ -1,9 +1,3 @@
-<!-- 
-  <div class="column" style="flex: 50%;">
-    <a href="https://app.daily.dev/JoTrash"><img src="https://github.com/JoanaTrashlieva/JoanaTrashlieva/blob/main/devcard.svg" width="300" alt="Jo's Dev      Card"/></a>
-  </div> -->
-
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
    Hello world!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -13,7 +7,8 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
+<a href="https://app.daily.dev/JoTrash">
+<img align="right" height="400" width="600" alt="GIF" src="https://github.com/JoanaTrashlieva/JoanaTrashlieva/blob/main/devcard.svg" alt="Jo's Dev Card"/></a>
 
 > *Where there is will, there is way!*
 <br/>
