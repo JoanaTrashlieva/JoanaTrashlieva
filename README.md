@@ -30,7 +30,7 @@
     <a href="https://www.instagram.com/joana.trashlieva/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/jotrashlieva">
       <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
