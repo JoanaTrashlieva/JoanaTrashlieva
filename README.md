@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/JoTrash">
 <img align="right" height="400" width="600" alt="GIF" src="https://github.com/JoanaTrashlieva/JoanaTrashlieva/blob/main/devcard.svg" alt="Jo's Dev Card"/></a>
 
-> *Where there is will, there is way!*
+> *Where there is will, there is a way!*
 <br/>
 
 ## Top things about me:
