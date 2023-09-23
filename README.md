@@ -11,9 +11,6 @@ Until then, I leave you with my favourite quote:
     <a href="https://nl.linkedin.com/in/joana-trashlieva">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/jotrashlieva">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=JoanaTrashlieva&style=flat&color=blue" alt=""/>
 </div>
