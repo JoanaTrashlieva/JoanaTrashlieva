@@ -2,7 +2,7 @@
    Hello world!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hey there! I am a full-time software engineer in cyber security. Hit me up if you want to talk code, coffee or dogs <i>(not always in that order)</i>! 
+Hey there! I am a cyber security analyst. Hit me up if you want to talk code, cyber, coffee or dogs <i>(not always in that order)</i>! 
 Until then, I leave you with my favourite quote:
 > "Where there is will, there is a way!
 
