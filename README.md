@@ -2,7 +2,7 @@
    Hello world!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hey there! I am a cyber security analyst. Hit me up if you want to talk code, cyber, coffee or dogs <i>(not always in that order)</i>! 
+Hey there! I am a cyber security analyst. Hit me up if you want to talk cyber, coffee or dogs <i>(not always in that order)</i>! 
 Until then, I leave you with my favourite quote:
 > "Where there is will, there is a way!
 
@@ -19,19 +19,12 @@ Until then, I leave you with my favourite quote:
 <ul>
   <li> Books 📚 </li>
     <ul>
-      <li><a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmattic Programmer</a></li>
+      <li><a href="https://thisishowtheytellmetheworldends.com/">This Is How They Tell Me The World Ends</a></li>
       <li><a href="https://www.manning.com/books/the-programmers-brain">The Programmer's Brain</a></li>
-      <li><a href="https://www.amazon.nl/dp/0132350882?tag=alehye-21&geniuslink=true">Clean Code</a></li>
     </ul>   
   <li> Podcastss 🎧 </li>
     <ul>
-      <li><a href="https://open.spotify.com/show/21zZfOy7VCSIIWlJ64DElv">Hacked</a></li>
       <li><a href="https://darknetdiaries.com/">Darknet Diaries</a></li>
       <li><a href="https://www.cybercrimeology.com/">Cybercrimeology</a></li>
-    </ul>   
-  <li> Sites & Tools 💻 </li>
-    <ul>
-      <li><a href="https://devhints.io/xpath">xPath Cheatsheet</a></li>
-      <li><a href="https://crontab.guru/">Crontab guru</a></li>
-    </ul>   
+    </ul>    
 </ul>
